@@ -40,6 +40,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Student Marks Update</title>
     <link rel="stylesheet" type="text/css" href="../css/index.css">
+    <link rel="stylesheet" href="../font.css">
 </head>
 <body style="padding: 5px 100px;">
     <h1 class="home-title">BCA - Student Marks Add / Update</h1>
